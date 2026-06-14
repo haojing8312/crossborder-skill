@@ -1,0 +1,17 @@
+{
+  "date": "2026-06-15",
+  "role_slug": "ai-overseas-social-content-assistant",
+  "role_name": "AI 海外社媒内容助理",
+  "generator_profile": "visual-agent",
+  "image_gen_provider": "openai-codex",
+  "image_gen_model": "gpt-image-2-high",
+  "method": "image_gen native generation; no HTML/Canvas/SVG/programmatic screenshot replacement by opc-chief",
+  "normalized_size": "1152x2048",
+  "cards": [
+    {"file": "ai-overseas-social-content-assistant-01-cover.png", "size": "1152x2048", "gate": "PASS", "note": "series homepage cover; contains 岗位职责/核心技能/业务作用"},
+    {"file": "ai-overseas-social-content-assistant-02-pain.png", "size": "1152x2048", "gate": "PASS"},
+    {"file": "ai-overseas-social-content-assistant-03-work.png", "size": "1152x2048", "gate": "PASS"},
+    {"file": "ai-overseas-social-content-assistant-04-workflow-prompt.png", "size": "1152x2048", "gate": "PASS"},
+    {"file": "ai-overseas-social-content-assistant-05-toolkit-pilot.png", "size": "1152x2048", "gate": "PASS"}
+  ]
+}
